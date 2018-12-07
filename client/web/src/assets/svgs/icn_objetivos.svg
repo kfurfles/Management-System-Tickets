@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.664 16">
+    <defs>
+        <style>
+            .cls-1{fill:#959ba6}
+        </style>
+    </defs>
+    <g id="icn_objetivos" transform="translate(-743 -1108)">
+        <path id="Path_4369" d="M14.186.8a.8.8 0 0 0-1.592 0v14.4a.8.8 0 0 0 1.592 0V8.9z" class="cls-1" data-name="Path 4369" transform="translate(730.406 1108)"/>
+        <path id="Path_4370" d="M70.215 6.267a.49.49 0 0 1 0-.606 16.227 16.227 0 0 1 2.257-2.224c.644-.518-.2-.9-.384-.975C68.259.848 64.429 4.226 60.6 3.2v7.972c3.837 1.029 7.674-2.363 11.51-.728.187.079.358.06.441-.064a.556.556 0 0 0-.053-.544 31.957 31.957 0 0 0-2.283-3.569z" class="cls-1" data-name="Path 4370" transform="translate(684.949 1106.089)"/>
+    </g>
+</svg>

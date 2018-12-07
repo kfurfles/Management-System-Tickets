@@ -1,0 +1,11 @@
+<svg id="icn_schedule_map" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_17335" data-name="Path 17335" class="cls-1" d="M15,18H12.5V17a1,1,0,1,0-2,0v1h-5V17a1,1,0,1,0-2,0v1H1a1,1,0,0,0-1,1v1H16V19A1,1,0,0,0,15,18Z" transform="translate(0 -16)"/>
+  <path id="Path_17336" data-name="Path 17336" class="cls-1" d="M0,185a1,1,0,0,0,1,1H15a1,1,0,0,0,1-1v-9H0Zm11-7h2v2H11Zm-4,0H9v2H7Zm0,4H9v2H7Zm-4-4H5v2H3Zm0,4H5v2H3Z" transform="translate(0 -171)"/>
+</svg>

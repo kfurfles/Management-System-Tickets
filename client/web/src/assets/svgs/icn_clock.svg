@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #959ba6;
+      }
+    </style>
+  </defs>
+  <g id="clock" transform="translate(0)">
+    <g id="Group_3409" data-name="Group 3409">
+      <path id="Path_17832" data-name="Path 17832" class="cls-1" d="M7,0a7,7,0,1,0,7,7A7,7,0,0,0,7,0Zm3.026,8.331H7.058l-.029,0L7,8.331a.484.484,0,0,1-.484-.484V2.905a.484.484,0,1,1,.968,0V7.363h2.542a.484.484,0,0,1,0,.968Z"/>
+    </g>
+  </g>
+</svg>

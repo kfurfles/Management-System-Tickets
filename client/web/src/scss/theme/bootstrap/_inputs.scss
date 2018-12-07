@@ -1,0 +1,22 @@
+.form-control{
+    border-radius: 25px;
+}
+
+.col-form-label {
+    font-size: .8rem;
+    font-weight: bold;
+}
+
+.bold{
+    font-weight: bold
+}
+
+.custom-checkbox .custom-control-label::before {
+    border-radius: 50%;
+}
+
+.custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    background-color: #ff9800 !important;
+    // background-color: #3f8df7;
+}

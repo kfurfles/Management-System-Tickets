@@ -1,0 +1,18 @@
+/**
+ * Settings alerts boxes
+ */
+$success-text       : $color-white;
+$success-background : $color-green;
+$success-border     : $color-green;
+
+$info-text          : $color-white;
+$info-background    : $color-cyan !default;
+$info-border        : darken($color-cyan, 7%) !default;
+
+$warning-text       : $color-white;
+$warning-background : $color-yellow !default;
+$warning-border     : $color-yellow !default;
+
+$danger-text        : $color-white;
+$danger-background  : $color-red;
+$danger-border      : $color-red !default;

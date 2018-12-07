@@ -1,0 +1,14 @@
+$color-list: "-primary" "-primary-heavy" "-ice" "-hover" "-gray-one" "-gray-two" "-gray-three" "-gray-four" "-white" "-yellow" "-orange" "-red" "-green" "-cyan" "-heavy-blue" "-black";
+
+$color-codes: #00b7d8 #009cb7 #fafdff #f4f5f7 #efe9ed #959ba6 #94989a #6a6e76 #ffffff #ffde22 #f68634 #ec3237 #abcf47 #57cbd6 #3054a0 #232323;
+
+@mixin background-color-menu-item($class: '',$prefix: '') {
+    .bg-color#{$prefix}{
+        background-color: unquote("#{$class}");
+    }
+}
+  
+@each $val in $color-list {
+  $i: index($color-list, $val);
+  @include background-color-menu-item(nth($color-codes,$i),nth($color-list, $i));
+};

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.667 17.667">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="icn_mapa" transform="translate(0)">
+    <path id="Path_16822" data-name="Path 16822" class="cls-1" d="M0,161H5.544v6.556H0Zm0,0" transform="translate(0 -155.444)"/>
+    <path id="Path_16823" data-name="Path 16823" class="cls-1" d="M351.332,0h5.544V12.112h-5.544Zm0,0" transform="translate(-339.209)"/>
+    <path id="Path_16824" data-name="Path 16824" class="cls-1" d="M190.668,0h4.509V8.316h-4.509Zm0,0" transform="translate(-184.089)"/>
+    <path id="Path_16825" data-name="Path 16825" class="cls-1" d="M190.668,271h4.509v8.316h-4.509Zm0,0" transform="translate(-184.089 -261.649)"/>
+    <path id="Path_16826" data-name="Path 16826" class="cls-1" d="M0,0H5.544V4.52H0ZM0,0"/>
+    <path id="Path_16827" data-name="Path 16827" class="cls-1" d="M351.332,381h5.544v4.52h-5.544Zm0,0" transform="translate(-339.209 -367.853)"/>
+    <path id="Path_16828" data-name="Path 16828" class="cls-1" d="M0,381H5.544v4.52H0Zm0,0" transform="translate(0 -367.853)"/>
+  </g>
+</svg>

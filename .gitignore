@@ -1,0 +1,8 @@
+
+client/SCSM/src/config-firebase\.js
+
+server/API_SYS/\.vscode/
+
+*.lock
+
+\.DS_Store

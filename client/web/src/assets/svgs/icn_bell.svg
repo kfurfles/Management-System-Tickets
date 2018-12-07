@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-1{fill:#959ba6;fill-rule:evenodd}
+        </style>
+    </defs>
+    <g id="icn_alerta_notificacao" transform="translate(-880 -1275)">
+        <g id="Group_700" data-name="Group 700" transform="translate(880 1275)">
+            <g id="Alert">
+                <path id="Path_1" d="M15.077 14h-5.026a2.01 2.01 0 0 1-4.021 0H1a.965.965 0 0 1-.9-.7 1.064 1.064 0 0 1 .3-1.1A4.019 4.019 0 0 0 2.01 9V6a6.031 6.031 0 0 1 12.062 0v3a4.019 4.019 0 0 0 1.608 3.2.944.944 0 0 1 .3 1.1.965.965 0 0 1-.903.7z" class="cls-1" data-name="Path 1" transform="translate(-.063)"/>
+            </g>
+        </g>
+    </g>
+</svg>

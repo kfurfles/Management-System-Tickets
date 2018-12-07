@@ -1,0 +1,39 @@
+
+/**
+ * IE and Edge general styles
+ * Allowed !important
+ */
+@mixin ie-styles {
+    // 360 - 12 - 12 = 336
+    // img: 90 + 16 = 106
+    // content: 230
+    .x-minicart__img {
+        width: 90px !important;
+        margin-right: 16px !important;
+    }
+
+    .x-minicart__infos {
+        width: 230px !important;
+    }
+}
+
+/**
+ * IE 10+ Fallback
+ */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    @include ie-styles;
+}
+
+/**
+ * Microsoft Edge Browser 13+ - @supports method
+ */
+@supports (-ms-ime-align:auto) and (color:unset) {
+    @include ie-styles;
+}
+
+/**
+ * Microsoft Edge Browser 12
+ */
+@supports (-ms-accelerator:true) and (not (color:unset)) {
+    @include ie-styles;
+}

@@ -1,0 +1,10 @@
+// create a document named "config-firebase.js" in the current directory and put the project data following the example below
+
+export default {
+  apiKey: '',
+  authDomain: '',
+  databaseURL: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: ''
+}

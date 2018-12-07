@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.943 16">
+    <defs>
+        <style>
+            .cls-1{fill:#959ba6}
+        </style>
+    </defs>
+    <g id="icn_biblioteca" transform="translate(-357 -990)">
+        <g id="Group_1320" data-name="Group 1320" transform="translate(357 990)">
+            <g id="Group_1319" data-name="Group 1319">
+                <path id="Path_4376" d="M35.58 35.049a.739.739 0 0 0-.525.218.746.746 0 0 0-.221.532v11.237a.752.752 0 0 0 .75.749 9.271 9.271 0 0 1 6.683 2.478V38.5a.718.718 0 0 0-.1-.38c-1.658-2.662-4.838-3.067-6.587-3.071z" class="cls-1" data-name="Path 4376" transform="translate(-32.377 -35.049)"/>
+                <path id="Path_4377" d="M164.184 47.035V35.8a.748.748 0 0 0-.746-.749c-1.748 0-4.928.409-6.583 3.074a.718.718 0 0 0-.1.38v11.76a9.271 9.271 0 0 1 6.683-2.478.752.752 0 0 0 .746-.752z" class="cls-1" data-name="Path 4377" transform="translate(-145.698 -35.048)"/>
+                <path id="Path_4378" d="M179.583 71.8h-.543v9.4a1.917 1.917 0 0 1-1.911 1.913 8.312 8.312 0 0 0-5.647 1.928 18.041 18.041 0 0 1 7.934.153.749.749 0 0 0 .917-.73V72.55a.75.75 0 0 0-.75-.75z" class="cls-1" data-name="Path 4378" transform="translate(-159.39 -69.209)"/>
+                <path id="Path_4379" d="M1.293 81.2v-9.4H.749a.75.75 0 0 0-.749.75v11.91a.749.749 0 0 0 .917.73 18.04 18.04 0 0 1 7.934-.153A8.312 8.312 0 0 0 3.2 83.109 1.917 1.917 0 0 1 1.293 81.2z" class="cls-1" data-name="Path 4379" transform="translate(0 -69.209)"/>
+            </g>
+        </g>
+    </g>
+</svg>

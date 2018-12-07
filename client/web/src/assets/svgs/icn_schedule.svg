@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.933 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #959ba6;
+      }
+    </style>
+  </defs>
+  <g id="calendar" transform="translate(0)">
+    <path id="Path_17335" data-name="Path 17335" class="cls-1" d="M14,18H11.667V17A.936.936,0,1,0,9.8,17v1H5.133V17A.968.968,0,0,0,4.2,16a.968.968,0,0,0-.933,1v1H.933A.968.968,0,0,0,0,19v1H14.933V19A.968.968,0,0,0,14,18Z" transform="translate(0 -16)"/>
+    <path id="Path_17336" data-name="Path 17336" class="cls-1" d="M0,185a.968.968,0,0,0,.933,1H14a.968.968,0,0,0,.933-1v-9H0Zm10.267-7h1.867v2H10.267Zm-3.733,0H8.4v2H6.533Zm0,4H8.4v2H6.533ZM2.8,178H4.667v2H2.8Zm0,4H4.667v2H2.8Z" transform="translate(0 -172)"/>
+  </g>
+</svg>
